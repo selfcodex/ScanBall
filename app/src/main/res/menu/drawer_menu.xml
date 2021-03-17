@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="@string/RPL" android:id="@+id/id_RPL"/> <!--android:icon=""/-->
+    <item android:title="@string/APL" android:id="@+id/id_APL"/>
+    <item android:title="@string/T3" android:id="@+id/id_T3"/>
+    <item android:title="@string/T4" android:id="@+id/id_T4"/>
+    <item android:title="@string/T5" android:id="@+id/id_T5"/>
+    <item android:title="@string/T6" android:id="@+id/id_T6"/>
+    <item android:title="@string/T7" android:id="@+id/id_T7"/>
+    <item android:title="@string/T8_" android:id="@+id/id_T8"/>
+    <item android:title="@string/T9" android:id="@+id/id_T9"/>
+    <item android:title="@string/T10" android:id="@+id/id_T10_"/>
+    <item android:title="@string/T11" android:id="@+id/id_T11"/>
+    <item android:title="@string/T12" android:id="@+id/id_T12"/>
+    <item android:title="@string/T13" android:id="@+id/id_T13"/>
+</menu>

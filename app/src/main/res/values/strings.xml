@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ScanBall</string>
+    <string name="RPL">Россия</string>
+    <string name="APL">Англия</string>
+    <string name="T3">Испания</string>
+    <string name="T4">Италия</string>
+    <string name="T5">Германия</string>
+    <string name="T6">Франция</string>
+    <string name="T7">Украина</string>
+    <string name="T8_">Турция</string>
+    <string name="T9">Шотландия</string>
+    <string name="T10">Португалия</string>
+    <string name="T11">Голландия</string>
+    <string name="T12">Беларусь</string>
+    <string name="T13">Казахстан</string>
+</resources>
